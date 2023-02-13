@@ -1,0 +1,42 @@
+*{
+    margin: 0px 0px 0px 0px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin-left: 6px;
+}
+a:hover{
+    
+    color: yellow;
+    transition: 2s;
+    
+}
+#nav{
+    display: flex;
+
+}
+h2{
+    color: white;
+    margin: 10px 0px 0px 10px;
+}
+header{
+    background-color: black;
+    display: flex;
+}
+
+#d1{
+    margin: 12px 0px 0px 450px;
+}
+#btn{
+    
+    margin-left: 525px;
+    padding: 12px;
+border: 2px solid white;
+border-radius: 2px;
+background-color: purple;
+}
+img:hover{
+    box-shadow:6px 6px 6px red;
+    transition: 0.1s;
+}
